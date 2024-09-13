@@ -1,2 +1,2 @@
 # git-course
-just for learn
+This repository was created for educational and training purposes only.
